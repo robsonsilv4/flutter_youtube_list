@@ -2,7 +2,7 @@
 
 A curated list of amazing Flutter development channels on YouTube. These include tutorials, speed code, live coders and more!
 
-### English
+### English 🏴󠁧󠁢󠁥󠁮󠁧󠁿
 
 - [MTECHVIRAL](https://www.youtube.com/channel/UCFTM1FGjZSkoSPDZgtbp7hA)
 - [Reso Coder](https://www.youtube.com/channel/UCSIvrn68cUk8CS8MbtBmBkA)
@@ -22,9 +22,11 @@ A curated list of amazing Flutter development channels on YouTube. These include
 - [Dan Mlayah](https://www.youtube.com/channel/UCG72DKmuLK1HWbv6N2NKH4A)
 - [Afgprogrammer](https://www.youtube.com/channel/UCuXm84E6yWF0dIKmwvwc9sQ)
 
-### Portuguese
+### Portuguese 🇵🇹/🇧🇷
 
 - [Flutterando](https://www.youtube.com/user/jacobaraujo7)
 - [Renato Mota](https://www.youtube.com/channel/UCd-vLa_qcKve3CsDFlYiygA)
 - [balta.io](https://www.youtube.com/channel/UCgnACLvM9O5lfm9ZBh_d3cg)
 - [Pedro Massango](https://www.youtube.com/channel/UCBiJzXGvkuT9aG2Yq8BYYnQ)
+
+[MIT License.](./LICENSE)
