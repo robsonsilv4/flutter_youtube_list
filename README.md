@@ -21,3 +21,10 @@ A curated list of amazing Flutter development channels on YouTube. These include
 - [codigo Alpha](https://www.youtube.com/channel/UCqCqeYUukFVUleZpOb7_R1Q)
 - [Dan Mlayah](https://www.youtube.com/channel/UCG72DKmuLK1HWbv6N2NKH4A)
 - [Afgprogrammer](https://www.youtube.com/channel/UCuXm84E6yWF0dIKmwvwc9sQ)
+
+### Portuguese
+
+- [Flutterando](https://www.youtube.com/user/jacobaraujo7)
+- [Renato Mota](https://www.youtube.com/channel/UCd-vLa_qcKve3CsDFlYiygA)
+- [balta.io](https://www.youtube.com/channel/UCgnACLvM9O5lfm9ZBh_d3cg)
+- [Pedro Massango](https://www.youtube.com/channel/UCBiJzXGvkuT9aG2Yq8BYYnQ)
