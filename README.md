@@ -24,6 +24,10 @@ A curated list of amazing Flutter development channels on YouTube. These include
 
 ### Portuguese 🇵🇹/🇧🇷
 
+- [Thizer](https://www.youtube.com/channel/UCwoZZYTjG-RsvaQZVTyc_5w)
+- [Everton Figueiredo](https://www.youtube.com/channel/UCVKbT6Y17JghIxuCzdc3Xbg)
+- [Fluttership](https://www.youtube.com/channel/UCPY95qeSZhW2eRqE-VkqSzA)
+- [Daniel Ciolfi](https://www.youtube.com/user/danielciolfi)
 - [Flutterando](https://www.youtube.com/user/jacobaraujo7)
 - [Renato Mota](https://www.youtube.com/channel/UCd-vLa_qcKve3CsDFlYiygA)
 - [balta.io](https://www.youtube.com/channel/UCgnACLvM9O5lfm9ZBh_d3cg)
