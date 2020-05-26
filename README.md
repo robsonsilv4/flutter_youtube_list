@@ -33,9 +33,4 @@ A curated list of amazing Flutter development channels on YouTube. These include
 - [balta.io](https://www.youtube.com/channel/UCgnACLvM9O5lfm9ZBh_d3cg)
 - [Pedro Massango](https://www.youtube.com/channel/UCBiJzXGvkuT9aG2Yq8BYYnQ)
 
-### My Favorites
-
-- [Reso Coder](https://www.youtube.com/channel/UCSIvrn68cUk8CS8MbtBmBkA)
-- [Code With Andrea](https://www.youtube.com/channel/UCrTnsT4OYZ53l0QGKqLeD5Q/)
-
 [MIT License.](./LICENSE)
